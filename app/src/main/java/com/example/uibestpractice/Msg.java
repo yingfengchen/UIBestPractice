@@ -15,6 +15,9 @@ public class Msg {
         this.type = type;
     }
 
+
+
+
     public String getContent() {
         return content;
     }
